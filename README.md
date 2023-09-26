@@ -1,2 +1,3 @@
 # Quaternions
-Parametrization of 3D Rotations using Quaternions
+This document provides a brief summary on "Parametrization of 3D Rotations using Quaternions."
+
